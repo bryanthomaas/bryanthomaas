@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Bryan Thomas 👋</h1>
-<h3 align="center">Full-Stack Developer | AI Engineer | Computer Engineering @ UC</h3>
+<h3 align="center"> Computer Engineering @ UC | Looking for a Full time job</h3>
 
 <p align="center">
-  <i>Pronounced "BRY-uhn"</i>
-</p>
+
 
 ---
 
@@ -11,11 +10,6 @@
 * 🎓 Pursuing my Bachelor of Science in Computer Engineering at the **University of Cincinnati**.
 * 🤖 Currently focused on building autonomous AI agents, scalable web applications, and event-driven architectures.
 * 💼 Professionally experienced in full-stack web development, facility project management, and hardware/software troubleshooting across multiple internships.
-
-### ⚡ Beyond the Code
-* 🎮 Competitive gamer (Ranked Top 1% globally in **Fortnite**) and an avid fan of Valorant and Elden Ring.
-* ⚽ Active on the court and field, usually playing soccer, badminton, or squash.
-* 🍳 Amateur home chef constantly trying to perfect my pan-seared salmon, steak, and homemade fried rice.
 
 ---
 
@@ -60,8 +54,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bryanthomaas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanthomaas&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
