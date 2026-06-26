@@ -1,16 +1,21 @@
 <h1 align="center">Hi, I'm Bryan Thomas 👋</h1>
-<h3 align="center">Computer Engineering @ UC | Looking for a Full time Job</h3>
+<h3 align="center">Full-Stack Developer | AI Engineer | Computer Engineering @ UC</h3>
 
 <p align="center">
-  
+  <i>Pronounced "BRY-uhn"</i>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-* 🎓 Recently graduated with a Bachelor of Science in Computer Engineering at the **University of Cincinnati**.
+* 🎓 Pursuing my Bachelor of Science in Computer Engineering at the **University of Cincinnati**.
 * 🤖 Currently focused on building autonomous AI agents, scalable web applications, and event-driven architectures.
 * 💼 Professionally experienced in full-stack web development, facility project management, and hardware/software troubleshooting across multiple internships.
+
+### ⚡ Beyond the Code
+* 🎮 Competitive gamer (Ranked Top 1% globally in **Fortnite**) and an avid fan of Valorant and Elden Ring.
+* ⚽ Active on the court and field, usually playing soccer, badminton, or squash.
+* 🍳 Amateur home chef constantly trying to perfect my pan-seared salmon, steak, and homemade fried rice.
 
 ---
 
@@ -18,7 +23,7 @@
 
 **Languages:** ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Frontend:** ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 
 **Backend & Cloud:** ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
@@ -27,6 +32,12 @@
 ---
 
 ### 🚀 Featured Projects
+
+#### [3D Isometric AlgoVisualizer](#)
+**Hardware-Accelerated Pathfinding & Maze Engine**
+* Built a high-performance 3D isometric sandbox using **React 19**, **Vite**, and **Framer Motion**, utilizing dynamic Z-axis elevation to visualize node evaluations and successful paths.
+* Engineered a robust graph traversal engine supporting 8 distinct algorithms (including A*, JPS, and a custom Swarm model) alongside procedural maze generation (Cellular Automata, Kruskal's).
+* Developed an educational HUD featuring a real-time efficiency leaderboard, an Optimal Path Guarantor comparing live runs against a Dijkstra baseline, and a video-player style frame-by-frame execution scrubber.
 
 #### [Autonomous Codebase Documenter](#)
 **AI-Powered Architecture Generator**
@@ -49,8 +60,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryanthomaas&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanthomaas&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
